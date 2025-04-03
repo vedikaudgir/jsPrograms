@@ -1,0 +1,22 @@
+body{
+    background-color: #caf3fd;
+    text-align: center;
+    color: #121212;
+    margin-top: 150px;
+    align-items: center;
+    text-shadow: 0 0 1px #121212;
+}
+
+.buttons{
+    position: absolute;
+    width: 100px;
+    height:30px;
+    padding: 5px;
+    border-radius: 15px;
+    border: 1px solid #121212, 2px #121212;
+    color: #121212;
+    background-color: #89dce2;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
